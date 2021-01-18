@@ -1,0 +1,1 @@
+word_list = ['active', 'actuate', 'ventilate', 'common', 'cup-board', 'freedom', 'challenge', 'post-office', 'subtle', 'collective', 'collation', 'happiness']
